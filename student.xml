@@ -1,0 +1,15 @@
+<Student>
+    <Firstname>shivakumar</Firstname>
+    <Lastname>Paturikuppa</Lastname>
+    <DOB>24-08-1990</DOB>
+    <ADDRESS>
+        <PERMADDRESS>
+            <DoorNo>30-98/2</DoorNo>
+            <StreetName>BharathNagar</StreetName>
+        </PERMADDRESS>
+        <CURRENTADDRESS>
+            <DoorNo>70SP</DoorNo>
+            <StreetName>Bagwancolony</StreetName>
+        </CURRENTADDRESS>
+        </ADDRESS>
+</Student>

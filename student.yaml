@@ -1,0 +1,21 @@
+- FirstName: Shivakumar
+  LastName: Paturikuppa
+  DOB: 24-08-1990
+  Addresses:  #list of addresses
+  - Type: Perm
+    DoorNo: 30-98/2
+    StreetNo: BharathNagar
+  - Type: Current
+    DoorNo: 4-2/70sp
+    StreetNo: Bagwancolony
+
+- FirstName: Shivakumar
+  LastName: Paturikuppa
+  DOB: 24-08-1990
+  Addresses:  #list of addresses
+  - Type: Perm
+    DoorNo: 30-98/2
+    StreetNo: BharathNagar
+  - Type: Current
+    DoorNo: 4-2/70sp
+    StreetNo: Bagwancolony

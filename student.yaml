@@ -1,21 +1,22 @@
-- FirstName: Shivakumar
-  LastName: Paturikuppa
-  DOB: 24-08-1990
-  Addresses:  #list of addresses
-  - Type: Perm
-    DoorNo: 30-98/2
-    StreetNo: BharathNagar
-  - Type: Current
-    DoorNo: 4-2/70sp
-    StreetNo: Bagwancolony
+- firstname: sivakumar
+  lastname: m
+  email: info@joindevops.com
+  addresses: # list of addresses
+  - type: perm
+    doorNo: 143
+    street: gandhiNagar
+  - type: current
+    doorNo: 143
+    street: gandhiNagar
 
-- FirstName: Shivakumar
-  LastName: Paturikuppa
-  DOB: 24-08-1990
-  Addresses:  #list of addresses
-  - Type: Perm
-    DoorNo: 30-98/2
-    StreetNo: BharathNagar
-  - Type: Current
-    DoorNo: 4-2/70sp
-    StreetNo: Bagwancolony
+
+- firstname: sivakumar
+  lastname: m
+  email: info@joindevops.com
+  addresses: # list of addresses
+  - type: perm
+    doorNo: 143
+    street: gandhiNagar
+  - type: current
+    doorNo: 143
+    street: gandhiNagar
